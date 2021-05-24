@@ -1,2 +1,2 @@
 # Django_Text_Analyser
-#Day1 #Djanjo100DaysChallenge
+#Day1 #Django100DaysChallenge
